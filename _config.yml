@@ -1,0 +1,24 @@
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: Volume 2 - 2018
+email: pj@elixirdaze.com
+brand: CodeDaze Vol. 2
+headline: September 14th and 15th, Buffalo NY
+description: > # this means to ignore newlines until "baseurl:"
+  CodeDaze Vol 2
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://codedaze.me" # the base hostname & protocol for your site
+copyright: 2018 DevRelate.io LLC All Rights Reserved.
+
+# Build settings
+markdown: kramdown
+
+# Account ids
+snapwidget: 247552
+
+# Contacts
+email: pj@elixirdaze.com
+
+
+# Tracking
+# googleAnalitycsID: UA-83933844-1
