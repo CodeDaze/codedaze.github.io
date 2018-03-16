@@ -29,6 +29,13 @@
   }
 }
 
+@if $enable-grid-classes {
+  .photo-row {
+    @include make-row();
+    padding: 1px;
+  }
+}
+
 
 // Columns
 //
